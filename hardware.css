@@ -1,0 +1,28 @@
+/* CSS HEX */
+
+/* --platinum: #cfdbd5ff;
+--alabaster: #e8eddfff;
+--saffron: #f5cb5cff;
+--eerie-black: #242423ff;
+--jet: #333533ff; 
+https://coolors.co/palette/cfdbd5-e8eddf-f5cb5c-242423-333533
+
+flaticon
+*/
+
+body{
+    background-color: #242423;
+    color: #E8EDDF;
+}
+
+
+div{
+    background-color: #E8EDDF;
+    color: #242423;
+    margin-bottom: 20px;
+    border: 1px solid #333533;
+    min-height: 400px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px #CFDBD5FF
+}
